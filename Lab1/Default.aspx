@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Lab1.Default" %>
 
 <!DOCTYPE html>
-
+<!-- Author Name: Daniel Norman -->
 <html lang="en">
 <head runat="server">
     <title></title>
